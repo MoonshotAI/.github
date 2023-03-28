@@ -1,3 +1,3 @@
-# Welcome to Moonshot.AI
+# Welcome to Moonshot AI
 
 
