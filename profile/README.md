@@ -9,6 +9,7 @@
 * [Moonlight](https://github.com/MoonshotAI/Moonlight) for our paper [Muon is Scalable for LLM Training](https://arxiv.org/abs/2502.16982). We released (i) checkpoints for SOTA small models; (ii) code for our improved Muon optimizer.
 * [MoBA](https://github.com/MoonshotAI/MoBA): Mixture of Block Attention for Long-Context LLMs. We released code and paper for our looong-context LLM technique.
 * [Kimi-VL](https://github.com/MoonshotAI/Kimi-VL): Mixture-of-Experts Vision-Language Model for Multimodal Reasoning, Long-Context Understanding, and Strong Agent Capabilities
+* [Kimina-Prover Preview](https://github.com/MoonshotAI/Kimina-Prover-Preview): Towards Large Formal Reasoning Models with Reinforcement Learning. We released technical report, model weights and a rectified version of miniF2F-test benchmark.
 
 
 ## API Service
