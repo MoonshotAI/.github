@@ -10,7 +10,7 @@
 * [MoBA](https://github.com/MoonshotAI/MoBA): Mixture of Block Attention for Long-Context LLMs. We released code and paper for our looong-context LLM technique.
 * [Kimi-VL](https://github.com/MoonshotAI/Kimi-VL): Mixture-of-Experts Vision-Language Model for Multimodal Reasoning, Long-Context Understanding, and Strong Agent Capabilities
 * [Kimina-Prover Preview](https://github.com/MoonshotAI/Kimina-Prover-Preview): Towards Large Formal Reasoning Models with Reinforcement Learning. We released technical report, model weights and a rectified version of miniF2F-test benchmark.
-
+* [Kimi-Audio](https://github.com/MoonshotAI/Kimi-Audio)): An an open-source audio foundation model excelling in audio understanding, generation. We released a technical report, the model weights, and an evaluation toolkit to the community.
 
 ## API Service
 
