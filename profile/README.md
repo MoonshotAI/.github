@@ -5,12 +5,13 @@
 ## Research
 
 * [Mooncake](https://github.com/kvcache-ai/Mooncake/) pioneered the idea of KV-centric disaggregated LLM serving, winning the Best Paper award at FAST 2025. We released code and data corresponding to our paper.
-* [Kimi-K1.5](https://github.com/MoonshotAI/Kimi-k1.5): Scaling Reinforcement Learning with LLMs. We released our tech report on building an O1-level multi-modal reasoning model.
+* [Kimi-K1.5](https://github.com/MoonshotAI/Kimi-k1.5): Scaling Reinforcement Learning with LLMs. We released our tech report on building an o1-level multi-modal reasoning model.
 * [Moonlight](https://github.com/MoonshotAI/Moonlight) for our paper [Muon is Scalable for LLM Training](https://arxiv.org/abs/2502.16982). We released (i) checkpoints for SOTA small models; (ii) code for our improved Muon optimizer.
 * [MoBA](https://github.com/MoonshotAI/MoBA): Mixture of Block Attention for Long-Context LLMs. We released code and paper for our looong-context LLM technique.
 * [Kimi-VL](https://github.com/MoonshotAI/Kimi-VL): Mixture-of-Experts Vision-Language Model for Multimodal Reasoning, Long-Context Understanding, and Strong Agent Capabilities
 * [Kimina-Prover Preview](https://github.com/MoonshotAI/Kimina-Prover-Preview): Towards Large Formal Reasoning Models with Reinforcement Learning. We released technical report, model weights and a rectified version of miniF2F-test benchmark.
-
+* [Kimi-Audio](https://github.com/MoonshotAI/Kimi-Audio): Universal audio foundation model that handles diverse tasks like speech recognition, audio understanding, audio-to-text chat, speech-to-speech conversation. 
+  We released the technical report, model weights and evaluation toolkit.
 
 ## API Service
 
