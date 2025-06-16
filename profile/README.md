@@ -12,6 +12,7 @@
 * [Kimina-Prover Preview](https://github.com/MoonshotAI/Kimina-Prover-Preview): Towards Large Formal Reasoning Models with Reinforcement Learning. We released technical report, model weights and a rectified version of miniF2F-test benchmark.
 * [Kimi-Audio](https://github.com/MoonshotAI/Kimi-Audio): Universal audio foundation model that handles diverse tasks like speech recognition, audio understanding, audio-to-text chat, speech-to-speech conversation. 
   We released the technical report, model weights and evaluation toolkit.
+* [Kimi-Dev](https://github.com/MoonshotAI/Kimi-Dev): A Strong and Open-source Coding LLM for Issue Resolution. Kimi-Dev-72B achieves 60.4% performance on SWE-bench Verified. 
 
 ## API Service
 
