@@ -16,5 +16,4 @@
 
 ## API Service
 
-* [MoonshotAI-Cookbook](https://github.com/MoonshotAI/MoonshotAI-Cookbook): examples on how to use our API service.
 * [moonpalace](https://github.com/MoonshotAI/moonpalace): debugging tool for our API service.
