@@ -17,3 +17,6 @@
 ## API Service
 
 * [moonpalace](https://github.com/MoonshotAI/moonpalace): debugging tool for our API service.
+
+## Community
+* [Forum](https://forum.moonshot.ai/): join discussions, ask questions, and share ideas about the Moonshot AI platform and APIs.
