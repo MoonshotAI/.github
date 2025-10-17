@@ -14,9 +14,10 @@
   We released the technical report, model weights and evaluation toolkit.
 * [Kimi-Dev](https://github.com/MoonshotAI/Kimi-Dev): A Strong and Open-source Coding LLM for Issue Resolution. Kimi-Dev-72B achieves 60.4% performance on SWE-bench Verified. 
 
-## API Service
+## Service and Infra
 
 * [moonpalace](https://github.com/MoonshotAI/moonpalace): debugging tool for our API service.
+* [checkpoint-engine](https://github.com/MoonshotAI/checkpoint-engine): efficiently update model weights in LLM serving
 
 ## Community
 * [Forum](https://forum.moonshot.ai/): join discussions, ask questions, and share ideas about the Moonshot AI platform and APIs.
