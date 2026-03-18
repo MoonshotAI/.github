@@ -3,6 +3,7 @@
 <a href="https://www.moonshot.cn/"><img src="moonshot.jpg" alt="icon" style="height: 16px; vertical-align: center;"> [Moonshot AI](https://moonshot.ai) is committed to solving ambitious "moonshot" problems that will lead humanity to AGI. We embrace open source, and contributed the following projects to the community:
 
 ## Research
+* [Attention Residuals](https://github.com/MoonshotAI/Attention-Residuals): a drop-in replacement for residual connections with consistent scaling gains.
 * [Kimi K2.5](https://github.com/MoonshotAI/Kimi-K2.5): our most powerful open-source multimodal agentic model designed to advance general agentic intelligence.
 * [Kimi Linear](https://github.com/MoonshotAI/Kimi-Linear): a hybrid linear attention architecture that outperforms traditional full attention methods across various contexts.
 * [Kimi K2](https://github.com/MoonshotAI/Kimi-K2): an open-source Mixture-of-Experts model with 32B activated parameters and 1T total parameters. It achieves state-of-the-art performance in frontier knowledge, math, and coding among non-thinking models. 
