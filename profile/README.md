@@ -3,7 +3,7 @@
 <a href="https://www.moonshot.cn/"><img src="moonshot.jpg" alt="icon" style="height: 16px; vertical-align: center;"> [Moonshot AI](https://moonshot.ai) is committed to solving ambitious "moonshot" problems that will lead humanity to AGI. We embrace open source, and contributed the following projects to the community:
 
 ## Research
-* [](): Kimi K3 is a 2.8T-parameter model built on Kimi Delta Attention (KDA) and Attention Residuals (AttnRes), with native vision capabilities and a 1-million-token context window. It is the world's first open 3T-class model, designed for frontier intelligence across long-horizon coding, knowledge work, and reasoning.
+* [Kimi K3](https://github.com/MoonshotAI/Kimi-K3): Kimi K3 is a 2.8T-parameter model built on Kimi Delta Attention (KDA) and Attention Residuals (AttnRes), with native vision capabilities and a 1-million-token context window. It is the world's first open 3T-class model, designed for frontier intelligence across long-horizon coding, knowledge work, and reasoning.
 * [Attention Residuals](https://github.com/MoonshotAI/Attention-Residuals): a drop-in replacement for residual connections with consistent scaling gains.
 * [Kimi K2.5](https://github.com/MoonshotAI/Kimi-K2.5): Kimi K2.5 is an open-source, native multimodal agentic model built through continual pretraining on approximately 15 trillion mixed visual and text tokens atop Kimi-K2-Base.
 * [Kimi Linear](https://github.com/MoonshotAI/Kimi-Linear): a hybrid linear attention architecture that outperforms traditional full attention methods across various contexts.
